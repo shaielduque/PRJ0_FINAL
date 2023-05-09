@@ -18,15 +18,13 @@
 //=======================================================
 //  MODULE Definition
 //=======================================================
-module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
+module SC_RANDOM #(parameter RANDOM_DATAWIDTH=8)(
 	//////////// OUTPUTS //////////
-	SC_RegSHIFTER_data_OutBUS,
+	SC_RANDOM_data_OutBUS,
 	//////////// INPUTS //////////
-	SC_RegSHIFTER_CLOCK_50,
-	SC_RegSHIFTER_RESET_InHigh,
-	SC_RegSHIFTER_load_InLow, 
-	SC_RegSHIFTER_shiftselection_In,
-	SC_RegSHIFTER_data_InBUS
+	SC_RANDOM_CLOCK_50,
+	SC_RANDOM_RESET_InHigh,
+	SC_RANDOM_data_InBUS
 );
 //=======================================================
 //  PARAMETER declarations
@@ -35,47 +33,42 @@ module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
 //=======================================================
 //  PORT declarations
 //=======================================================
-output		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_OutBUS;
-input		SC_RegSHIFTER_CLOCK_50;
-input		SC_RegSHIFTER_RESET_InHigh;
-input		SC_RegSHIFTER_load_InLow;	
-input		[1:0] SC_RegSHIFTER_shiftselection_In;
-input		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_InBUS;
+output	[RANDOM_DATAWIDTH-1:0]	SC_RANDOM_data_OutBUS;
+input		SC_RANDOM_CLOCK_50;
+input		SC_RANDOM_RESET_InHigh;
+input 	[7:0]SC_RANDOM_data_InBUS;
 
 //=======================================================
 //  REG/WIRE declarations
 //=======================================================
-reg [RegSHIFTER_DATAWIDTH-1:0] RegSHIFTER_Register;
-reg [RegSHIFTER_DATAWIDTH-1:0] RegSHIFTER_Signal;
+reg [RANDOM_DATAWIDTH-1:0] RANDOM_Register;
+reg [RANDOM_DATAWIDTH-1:0] RANDOM_Signal;
+wire funcionpro;
+
 //=======================================================
 //  Structural coding
 //=======================================================
 //INPUT LOGIC: COMBINATIONAL
+
 always @(*)
 begin
-	if (SC_RegSHIFTER_load_InLow == 1'b0)
-		RegSHIFTER_Signal = SC_RegSHIFTER_data_InBUS;
-	else if (SC_RegSHIFTER_shiftselection_In == 2'b01)
-		RegSHIFTER_Signal = RegSHIFTER_Register << 1'b1;   
-		//RegSHIFTER_Signal = {RegSHIFTER_Register[DATAWIDTH_BUS-2:0],0}
-	else if (SC_RegSHIFTER_shiftselection_In== 2'b10)
-		RegSHIFTER_Signal = RegSHIFTER_Register >> 1'b1;   
-		//RegSHIFTER_Signal = {0,RegSHIFTER_Register[DATAWIDTH_BUS-1:1]}
-	else
-		RegSHIFTER_Signal = RegSHIFTER_Register;
-	end	
+   RANDOM_Signal = {funcionpro,RANDOM_Register[7:1]};
+end	
 //STATE REGISTER: SEQUENTIAL
-always @(posedge SC_RegSHIFTER_CLOCK_50, posedge SC_RegSHIFTER_RESET_InHigh)
+always @(posedge SC_RANDOM_CLOCK_50, posedge SC_RANDOM_RESET_InHigh)
 begin
-	if (SC_RegSHIFTER_RESET_InHigh == 1'b1)
-		RegSHIFTER_Register <= 0;
+	if (SC_RANDOM_RESET_InHigh == 1'b1)
+		RANDOM_Register <= SC_RANDOM_data_InBUS;
 	else
-		RegSHIFTER_Register <= RegSHIFTER_Signal;
+		RANDOM_Register <= RANDOM_Signal;
 end
 //=======================================================
 //  Outputs
 //=======================================================
 //OUTPUT LOGIC: COMBINATIONAL
-assign SC_RegSHIFTER_data_OutBUS = RegSHIFTER_Register;
+assign funcionpro = RANDOM_Register[7]^RANDOM_Register[4]^RANDOM_Register[1];
+
+assign SC_RANDOM_data_OutBUS = RANDOM_Register;
+
 
 endmodule

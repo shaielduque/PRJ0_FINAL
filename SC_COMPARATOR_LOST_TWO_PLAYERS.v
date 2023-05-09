@@ -18,15 +18,12 @@
 //=======================================================
 //  MODULE Definition
 //=======================================================
-module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
-	//////////// OUTPUTS //////////
-	SC_RegSHIFTER_data_OutBUS,
-	//////////// INPUTS //////////
-	SC_RegSHIFTER_CLOCK_50,
-	SC_RegSHIFTER_RESET_InHigh,
-	SC_RegSHIFTER_load_InLow, 
-	SC_RegSHIFTER_shiftselection_In,
-	SC_RegSHIFTER_data_InBUS
+module SC_COMPARATOR_LOST_TWO_PLAYERS #(parameter DATAWIDTH=8)(
+//////////// OUTPUTS //////////
+	SC_COMPARATOR_LOST_TWO_PLAYERS_OutLow,
+//////////// INPUTS //////////
+	SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_1,
+	SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_2
 );
 //=======================================================
 //  PARAMETER declarations
@@ -35,47 +32,23 @@ module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
 //=======================================================
 //  PORT declarations
 //=======================================================
-output		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_OutBUS;
-input		SC_RegSHIFTER_CLOCK_50;
-input		SC_RegSHIFTER_RESET_InHigh;
-input		SC_RegSHIFTER_load_InLow;	
-input		[1:0] SC_RegSHIFTER_shiftselection_In;
-input		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_InBUS;
+output	reg SC_COMPARATOR_LOST_TWO_PLAYERS_OutLow;
+input 	[DATAWIDTH-1:0] SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_1;
+input 	[DATAWIDTH-1:0] SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_2;
 
 //=======================================================
 //  REG/WIRE declarations
 //=======================================================
-reg [RegSHIFTER_DATAWIDTH-1:0] RegSHIFTER_Register;
-reg [RegSHIFTER_DATAWIDTH-1:0] RegSHIFTER_Signal;
 //=======================================================
 //  Structural coding
 //=======================================================
-//INPUT LOGIC: COMBINATIONAL
-always @(*)
+always @(SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_1, SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_2)
 begin
-	if (SC_RegSHIFTER_load_InLow == 1'b0)
-		RegSHIFTER_Signal = SC_RegSHIFTER_data_InBUS;
-	else if (SC_RegSHIFTER_shiftselection_In == 2'b01)
-		RegSHIFTER_Signal = RegSHIFTER_Register << 1'b1;   
-		//RegSHIFTER_Signal = {RegSHIFTER_Register[DATAWIDTH_BUS-2:0],0}
-	else if (SC_RegSHIFTER_shiftselection_In== 2'b10)
-		RegSHIFTER_Signal = RegSHIFTER_Register >> 1'b1;   
-		//RegSHIFTER_Signal = {0,RegSHIFTER_Register[DATAWIDTH_BUS-1:1]}
-	else
-		RegSHIFTER_Signal = RegSHIFTER_Register;
-	end	
-//STATE REGISTER: SEQUENTIAL
-always @(posedge SC_RegSHIFTER_CLOCK_50, posedge SC_RegSHIFTER_RESET_InHigh)
-begin
-	if (SC_RegSHIFTER_RESET_InHigh == 1'b1)
-		RegSHIFTER_Register <= 0;
-	else
-		RegSHIFTER_Register <= RegSHIFTER_Signal;
+	if(SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_1 & SC_COMPARATOR_LOST_TWO_PLAYERS_data_InBUS_2)
+		SC_COMPARATOR_LOST_TWO_PLAYERS_OutLow = 1'b0;
+	else 
+		SC_COMPARATOR_LOST_TWO_PLAYERS_OutLow = 1'b1;
 end
-//=======================================================
-//  Outputs
-//=======================================================
-//OUTPUT LOGIC: COMBINATIONAL
-assign SC_RegSHIFTER_data_OutBUS = RegSHIFTER_Register;
 
 endmodule
+

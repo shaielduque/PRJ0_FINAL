@@ -18,15 +18,13 @@
 //=======================================================
 //  MODULE Definition
 //=======================================================
-module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
+module SC_CONTADORCLK #(parameter upSPEEDCOUNTER_DATAWIDTH=8)(
 	//////////// OUTPUTS //////////
-	SC_RegSHIFTER_data_OutBUS,
+	SC_upSPEEDCOUNTER_data_OutBUS,
 	//////////// INPUTS //////////
-	SC_RegSHIFTER_CLOCK_50,
-	SC_RegSHIFTER_RESET_InHigh,
-	SC_RegSHIFTER_load_InLow, 
-	SC_RegSHIFTER_shiftselection_In,
-	SC_RegSHIFTER_data_InBUS
+	SC_upSPEEDCOUNTER_CLOCK_50,
+	SC_upSPEEDCOUNTER_RESET_InHigh,
+	SC_upSPEEDCOUNTER_upcount_InLow
 );
 //=======================================================
 //  PARAMETER declarations
@@ -35,47 +33,39 @@ module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
 //=======================================================
 //  PORT declarations
 //=======================================================
-output		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_OutBUS;
-input		SC_RegSHIFTER_CLOCK_50;
-input		SC_RegSHIFTER_RESET_InHigh;
-input		SC_RegSHIFTER_load_InLow;	
-input		[1:0] SC_RegSHIFTER_shiftselection_In;
-input		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_InBUS;
+output		[upSPEEDCOUNTER_DATAWIDTH-1:0]	SC_upSPEEDCOUNTER_data_OutBUS;
+input		SC_upSPEEDCOUNTER_CLOCK_50;
+input		SC_upSPEEDCOUNTER_RESET_InHigh;
+input		SC_upSPEEDCOUNTER_upcount_InLow;
 
 //=======================================================
 //  REG/WIRE declarations
 //=======================================================
-reg [RegSHIFTER_DATAWIDTH-1:0] RegSHIFTER_Register;
-reg [RegSHIFTER_DATAWIDTH-1:0] RegSHIFTER_Signal;
+reg [upSPEEDCOUNTER_DATAWIDTH-1:0] upSPEEDCOUNTER_Register;
+reg [upSPEEDCOUNTER_DATAWIDTH-1:0] upSPEEDCOUNTER_Signal;
 //=======================================================
 //  Structural coding
 //=======================================================
 //INPUT LOGIC: COMBINATIONAL
 always @(*)
 begin
-	if (SC_RegSHIFTER_load_InLow == 1'b0)
-		RegSHIFTER_Signal = SC_RegSHIFTER_data_InBUS;
-	else if (SC_RegSHIFTER_shiftselection_In == 2'b01)
-		RegSHIFTER_Signal = RegSHIFTER_Register << 1'b1;   
-		//RegSHIFTER_Signal = {RegSHIFTER_Register[DATAWIDTH_BUS-2:0],0}
-	else if (SC_RegSHIFTER_shiftselection_In== 2'b10)
-		RegSHIFTER_Signal = RegSHIFTER_Register >> 1'b1;   
-		//RegSHIFTER_Signal = {0,RegSHIFTER_Register[DATAWIDTH_BUS-1:1]}
+	if (SC_upSPEEDCOUNTER_upcount_InLow == 1'b0)
+		upSPEEDCOUNTER_Signal = upSPEEDCOUNTER_Register + 1'b1;
 	else
-		RegSHIFTER_Signal = RegSHIFTER_Register;
+		upSPEEDCOUNTER_Signal = upSPEEDCOUNTER_Register;
 	end	
 //STATE REGISTER: SEQUENTIAL
-always @(posedge SC_RegSHIFTER_CLOCK_50, posedge SC_RegSHIFTER_RESET_InHigh)
+always @(posedge SC_upSPEEDCOUNTER_CLOCK_50, posedge SC_upSPEEDCOUNTER_RESET_InHigh)
 begin
-	if (SC_RegSHIFTER_RESET_InHigh == 1'b1)
-		RegSHIFTER_Register <= 0;
+	if (SC_upSPEEDCOUNTER_RESET_InHigh  == 1'b1)
+		upSPEEDCOUNTER_Register <= 0;
 	else
-		RegSHIFTER_Register <= RegSHIFTER_Signal;
+		upSPEEDCOUNTER_Register <= upSPEEDCOUNTER_Signal;
 end
 //=======================================================
 //  Outputs
 //=======================================================
 //OUTPUT LOGIC: COMBINATIONAL
-assign SC_RegSHIFTER_data_OutBUS = RegSHIFTER_Register;
+assign SC_upSPEEDCOUNTER_data_OutBUS = upSPEEDCOUNTER_Register;
 
 endmodule

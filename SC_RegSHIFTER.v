@@ -36,6 +36,7 @@ module SC_RegSHIFTER #(parameter RegSHIFTER_DATAWIDTH=8)(
 //  PORT declarations
 //=======================================================
 output		[RegSHIFTER_DATAWIDTH-1:0]	SC_RegSHIFTER_data_OutBUS;
+
 input		SC_RegSHIFTER_CLOCK_50;
 input		SC_RegSHIFTER_RESET_InHigh;
 input		SC_RegSHIFTER_load_InLow;	
@@ -77,5 +78,6 @@ end
 //=======================================================
 //OUTPUT LOGIC: COMBINATIONAL
 assign SC_RegSHIFTER_data_OutBUS = RegSHIFTER_Register;
+
 
 endmodule
