@@ -1,0 +1,1626 @@
+# Reading C:/intelFPGA_lite/19.1/modelsim_ase/tcl/vsim/pref.tcl
+# do BB_SYSTEM_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:54 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v 
+# -- Compiling module shift_reg_start_done
+# 
+# Top level modules:
+# 	shift_reg_start_done
+# End time: 08:44:54 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:54 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v 
+# -- Compiling module matrix_ctrl
+# 
+# Top level modules:
+# 	matrix_ctrl
+# End time: 08:44:54 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:54 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v 
+# -- Compiling module SC_DEBOUNCE1
+# 
+# Top level modules:
+# 	SC_DEBOUNCE1
+# End time: 08:44:54 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:54 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v 
+# -- Compiling module BB_SYSTEM
+# 
+# Top level modules:
+# 	BB_SYSTEM
+# End time: 08:44:54 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:54 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v 
+# -- Compiling module SC_RegGENERAL
+# 
+# Top level modules:
+# 	SC_RegGENERAL
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v 
+# -- Compiling module SC_RegGENERAL_1_2_3
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2_3
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v 
+# -- Compiling module SC_RegGENERAL_1_2
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v 
+# -- Compiling module SC_RANDOM
+# 
+# Top level modules:
+# 	SC_RANDOM
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_1
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v 
+# -- Compiling module SC_RegSHIFTER
+# 
+# Top level modules:
+# 	SC_RegSHIFTER
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_1
+# End time: 08:44:55 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:55 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_2
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_2
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v 
+# -- Compiling module SC_COMPARATORLOST
+# 
+# Top level modules:
+# 	SC_COMPARATORLOST
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v 
+# -- Compiling module SC_SPEEDCOMPARATOR
+# ** Warning: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v(44): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	SC_SPEEDCOMPARATOR
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v 
+# -- Compiling module SC_STATEMACHINEPOINT
+# 
+# Top level modules:
+# 	SC_STATEMACHINEPOINT
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v 
+# -- Compiling module SC_CONTADORCLK
+# 
+# Top level modules:
+# 	SC_CONTADORCLK
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v 
+# -- Compiling module SC_STATEMACHINELOAD
+# 
+# Top level modules:
+# 	SC_STATEMACHINELOAD
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:56 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v 
+# -- Compiling module SC_STATEMACHINE_CAMBIANTE
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_CAMBIANTE
+# End time: 08:44:56 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v 
+# -- Compiling module CC_MUX13
+# 
+# Top level modules:
+# 	CC_MUX13
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v 
+# -- Compiling module CC_MUX1
+# 
+# Top level modules:
+# 	CC_MUX1
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v 
+# -- Compiling module CC_MUX2
+# 
+# Top level modules:
+# 	CC_MUX2
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v 
+# -- Compiling module CC_MUX4
+# 
+# Top level modules:
+# 	CC_MUX4
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v 
+# -- Compiling module CC_MUX9
+# 
+# Top level modules:
+# 	CC_MUX9
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v 
+# -- Compiling module CC_MUX12
+# 
+# Top level modules:
+# 	CC_MUX12
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v 
+# -- Compiling module SC_SEPARADOR
+# 
+# Top level modules:
+# 	SC_SEPARADOR
+# End time: 08:44:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v 
+# -- Compiling module SC_STATEMACHINE_MULTX
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_MULTX
+# End time: 08:44:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v 
+# -- Compiling module SC_STATEMACHINE_REGRESIVA
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_REGRESIVA
+# End time: 08:44:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/simulation/modelsim {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:44:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt 
+# -- Compiling module TB_SYSTEM
+# 
+# Top level modules:
+# 	TB_SYSTEM
+# End time: 08:44:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  TB_SYSTEM
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" TB_SYSTEM 
+# Start time: 08:44:58 on May 08,2023
+# Loading work.TB_SYSTEM
+# Loading work.BB_SYSTEM
+# Loading work.SC_DEBOUNCE1
+# Loading work.SC_RegGENERAL
+# Loading work.SC_RegGENERAL_1_2_3
+# Loading work.SC_RegGENERAL_1_2
+# Loading work.SC_RANDOM
+# Loading work.SC_RegSHIFTER
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_2
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_2
+# Loading work.SC_COMPARATORLOST
+# Loading work.SC_CONTADORCLK
+# Loading work.SC_SPEEDCOMPARATOR
+# Loading work.SC_STATEMACHINEPOINT
+# Loading work.SC_STATEMACHINELOAD
+# Loading work.SC_STATEMACHINE_CAMBIANTE
+# Loading work.SC_STATEMACHINE_MULTX
+# Loading work.SC_STATEMACHINE_REGRESIVA
+# Loading work.CC_MUX4
+# Loading work.CC_MUX12
+# Loading work.CC_MUX2
+# Loading work.CC_MUX1
+# Loading work.CC_MUX9
+# Loading work.CC_MUX13
+# Loading work.SC_SEPARADOR
+# Loading work.matrix_ctrl
+# Loading work.shift_reg_start_done
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Running testbench
+do TB_SYSTEM.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:13 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v 
+# -- Compiling module shift_reg_start_done
+# 
+# Top level modules:
+# 	shift_reg_start_done
+# End time: 08:45:13 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:13 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v 
+# -- Compiling module matrix_ctrl
+# 
+# Top level modules:
+# 	matrix_ctrl
+# End time: 08:45:13 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:13 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v 
+# -- Compiling module SC_DEBOUNCE1
+# 
+# Top level modules:
+# 	SC_DEBOUNCE1
+# End time: 08:45:13 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:13 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v 
+# -- Compiling module BB_SYSTEM
+# 
+# Top level modules:
+# 	BB_SYSTEM
+# End time: 08:45:13 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:13 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v 
+# -- Compiling module SC_RegGENERAL
+# 
+# Top level modules:
+# 	SC_RegGENERAL
+# End time: 08:45:13 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v 
+# -- Compiling module SC_RegGENERAL_1_2_3
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2_3
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v 
+# -- Compiling module SC_RegGENERAL_1_2
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v 
+# -- Compiling module SC_RANDOM
+# 
+# Top level modules:
+# 	SC_RANDOM
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_1
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v 
+# -- Compiling module SC_RegSHIFTER
+# 
+# Top level modules:
+# 	SC_RegSHIFTER
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_1
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:14 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_2
+# End time: 08:45:14 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_2
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v 
+# -- Compiling module SC_COMPARATORLOST
+# 
+# Top level modules:
+# 	SC_COMPARATORLOST
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v 
+# -- Compiling module SC_SPEEDCOMPARATOR
+# ** Warning: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v(44): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	SC_SPEEDCOMPARATOR
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v 
+# -- Compiling module SC_STATEMACHINEPOINT
+# 
+# Top level modules:
+# 	SC_STATEMACHINEPOINT
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v 
+# -- Compiling module SC_CONTADORCLK
+# 
+# Top level modules:
+# 	SC_CONTADORCLK
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v 
+# -- Compiling module SC_STATEMACHINELOAD
+# 
+# Top level modules:
+# 	SC_STATEMACHINELOAD
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:15 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v 
+# -- Compiling module SC_STATEMACHINE_CAMBIANTE
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_CAMBIANTE
+# End time: 08:45:15 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v 
+# -- Compiling module CC_MUX13
+# 
+# Top level modules:
+# 	CC_MUX13
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v 
+# -- Compiling module CC_MUX1
+# 
+# Top level modules:
+# 	CC_MUX1
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v 
+# -- Compiling module CC_MUX2
+# 
+# Top level modules:
+# 	CC_MUX2
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v 
+# -- Compiling module CC_MUX4
+# 
+# Top level modules:
+# 	CC_MUX4
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v 
+# -- Compiling module CC_MUX9
+# 
+# Top level modules:
+# 	CC_MUX9
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v 
+# -- Compiling module CC_MUX12
+# 
+# Top level modules:
+# 	CC_MUX12
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v 
+# -- Compiling module SC_SEPARADOR
+# 
+# Top level modules:
+# 	SC_SEPARADOR
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:16 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v 
+# -- Compiling module SC_STATEMACHINE_MULTX
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_MULTX
+# End time: 08:45:16 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:17 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v 
+# -- Compiling module SC_STATEMACHINE_REGRESIVA
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_REGRESIVA
+# End time: 08:45:17 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/simulation/modelsim {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 08:45:17 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt 
+# -- Compiling module TB_SYSTEM
+# 
+# Top level modules:
+# 	TB_SYSTEM
+# End time: 08:45:17 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  TB_SYSTEM
+# End time: 08:45:18 on May 08,2023, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 19
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" TB_SYSTEM 
+# Start time: 08:45:18 on May 08,2023
+# Loading work.TB_SYSTEM
+# Loading work.BB_SYSTEM
+# Loading work.SC_DEBOUNCE1
+# Loading work.SC_RegGENERAL
+# Loading work.SC_RegGENERAL_1_2_3
+# Loading work.SC_RegGENERAL_1_2
+# Loading work.SC_RANDOM
+# Loading work.SC_RegSHIFTER
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_2
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_2
+# Loading work.SC_COMPARATORLOST
+# Loading work.SC_CONTADORCLK
+# Loading work.SC_SPEEDCOMPARATOR
+# Loading work.SC_STATEMACHINEPOINT
+# Loading work.SC_STATEMACHINELOAD
+# Loading work.SC_STATEMACHINE_CAMBIANTE
+# Loading work.SC_STATEMACHINE_MULTX
+# Loading work.SC_STATEMACHINE_REGRESIVA
+# Loading work.CC_MUX4
+# Loading work.CC_MUX12
+# Loading work.CC_MUX2
+# Loading work.CC_MUX1
+# Loading work.CC_MUX9
+# Loading work.CC_MUX13
+# Loading work.SC_SEPARADOR
+# Loading work.matrix_ctrl
+# Loading work.shift_reg_start_done
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Running testbench
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 84
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 127
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 128
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 129
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 135
+# ** Error: Unrecognized option: "-radix/TB_SYSTEM/BB_SYSTEM_u0/SC_STATEMACHINE_MULTX_u0/SC_STATEMACHINE_MULTX_reloj" ignored.
+# Missing signal name or pattern.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 197
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# Running testbench
+do TB_SYSTEM.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:31 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v 
+# -- Compiling module shift_reg_start_done
+# 
+# Top level modules:
+# 	shift_reg_start_done
+# End time: 15:51:31 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:31 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v 
+# -- Compiling module matrix_ctrl
+# 
+# Top level modules:
+# 	matrix_ctrl
+# End time: 15:51:31 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:31 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v 
+# -- Compiling module SC_DEBOUNCE1
+# 
+# Top level modules:
+# 	SC_DEBOUNCE1
+# End time: 15:51:31 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:31 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v 
+# -- Compiling module BB_SYSTEM
+# 
+# Top level modules:
+# 	BB_SYSTEM
+# End time: 15:51:31 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:31 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v 
+# -- Compiling module SC_RegGENERAL
+# 
+# Top level modules:
+# 	SC_RegGENERAL
+# End time: 15:51:31 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:31 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v 
+# -- Compiling module SC_RegGENERAL_1_2_3
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2_3
+# End time: 15:51:31 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:32 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v 
+# -- Compiling module SC_RegGENERAL_1_2
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2
+# End time: 15:51:32 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:32 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v 
+# -- Compiling module SC_RANDOM
+# 
+# Top level modules:
+# 	SC_RANDOM
+# End time: 15:51:32 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:32 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_1
+# End time: 15:51:32 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:32 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v 
+# -- Compiling module SC_RegSHIFTER
+# 
+# Top level modules:
+# 	SC_RegSHIFTER
+# End time: 15:51:32 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:32 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_1
+# End time: 15:51:32 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:32 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_2
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_2
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v 
+# -- Compiling module SC_COMPARATORLOST
+# 
+# Top level modules:
+# 	SC_COMPARATORLOST
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v 
+# -- Compiling module SC_SPEEDCOMPARATOR
+# 
+# Top level modules:
+# 	SC_SPEEDCOMPARATOR
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v 
+# -- Compiling module SC_STATEMACHINEPOINT
+# 
+# Top level modules:
+# 	SC_STATEMACHINEPOINT
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v 
+# -- Compiling module SC_CONTADORCLK
+# 
+# Top level modules:
+# 	SC_CONTADORCLK
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v 
+# -- Compiling module SC_STATEMACHINELOAD
+# 
+# Top level modules:
+# 	SC_STATEMACHINELOAD
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v 
+# -- Compiling module SC_STATEMACHINE_CAMBIANTE
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_CAMBIANTE
+# End time: 15:51:33 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:33 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v 
+# -- Compiling module CC_MUX13
+# 
+# Top level modules:
+# 	CC_MUX13
+# End time: 15:51:34 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:34 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v 
+# -- Compiling module CC_MUX1
+# 
+# Top level modules:
+# 	CC_MUX1
+# End time: 15:51:34 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:34 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v 
+# -- Compiling module CC_MUX2
+# 
+# Top level modules:
+# 	CC_MUX2
+# End time: 15:51:34 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:34 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v 
+# -- Compiling module CC_MUX4
+# 
+# Top level modules:
+# 	CC_MUX4
+# End time: 15:51:34 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:34 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v 
+# -- Compiling module CC_MUX9
+# 
+# Top level modules:
+# 	CC_MUX9
+# End time: 15:51:34 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:34 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v 
+# -- Compiling module CC_MUX12
+# 
+# Top level modules:
+# 	CC_MUX12
+# End time: 15:51:34 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:35 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v 
+# -- Compiling module SC_SEPARADOR
+# 
+# Top level modules:
+# 	SC_SEPARADOR
+# End time: 15:51:35 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:35 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v 
+# -- Compiling module SC_STATEMACHINE_MULTX
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_MULTX
+# End time: 15:51:35 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:35 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v 
+# -- Compiling module SC_STATEMACHINE_REGRESIVA
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_REGRESIVA
+# End time: 15:51:35 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/simulation/modelsim {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 15:51:35 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt 
+# -- Compiling module TB_SYSTEM
+# 
+# Top level modules:
+# 	TB_SYSTEM
+# End time: 15:51:35 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  TB_SYSTEM
+# End time: 15:51:36 on May 08,2023, Elapsed time: 7:06:18
+# Errors: 18, Warnings: 36
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" TB_SYSTEM 
+# Start time: 15:51:36 on May 08,2023
+# Loading work.TB_SYSTEM
+# Loading work.BB_SYSTEM
+# Loading work.SC_DEBOUNCE1
+# Loading work.SC_RegGENERAL
+# Loading work.SC_RegGENERAL_1_2_3
+# Loading work.SC_RegGENERAL_1_2
+# Loading work.SC_RANDOM
+# Loading work.SC_RegSHIFTER
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_2
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_2
+# Loading work.SC_COMPARATORLOST
+# Loading work.SC_CONTADORCLK
+# Loading work.SC_SPEEDCOMPARATOR
+# Loading work.SC_STATEMACHINEPOINT
+# Loading work.SC_STATEMACHINELOAD
+# Loading work.SC_STATEMACHINE_CAMBIANTE
+# Loading work.SC_STATEMACHINE_MULTX
+# Loading work.SC_STATEMACHINE_REGRESIVA
+# Loading work.CC_MUX4
+# Loading work.CC_MUX12
+# Loading work.CC_MUX2
+# Loading work.CC_MUX1
+# Loading work.CC_MUX9
+# Loading work.CC_MUX13
+# Loading work.SC_SEPARADOR
+# Loading work.matrix_ctrl
+# Loading work.shift_reg_start_done
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Running testbench
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 84
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 127
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 128
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 129
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 135
+# ** Error: Unrecognized option: "-radix/TB_SYSTEM/BB_SYSTEM_u0/SC_STATEMACHINE_MULTX_u0/SC_STATEMACHINE_MULTX_reloj" ignored.
+# Missing signal name or pattern.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 197
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# Running testbench
+do TB_SYSTEM.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/shift_reg_start_done.v 
+# -- Compiling module shift_reg_start_done
+# 
+# Top level modules:
+# 	shift_reg_start_done
+# End time: 16:07:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/max7219_ctrl.v 
+# -- Compiling module matrix_ctrl
+# 
+# Top level modules:
+# 	matrix_ctrl
+# End time: 16:07:57 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:57 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_DEBOUNCE1.v 
+# -- Compiling module SC_DEBOUNCE1
+# 
+# Top level modules:
+# 	SC_DEBOUNCE1
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v 
+# -- Compiling module BB_SYSTEM
+# 
+# Top level modules:
+# 	BB_SYSTEM
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v 
+# -- Compiling module SC_RegGENERAL
+# 
+# Top level modules:
+# 	SC_RegGENERAL
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v 
+# -- Compiling module SC_RegGENERAL_1_2_3
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2_3
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v 
+# -- Compiling module SC_RegGENERAL_1_2
+# 
+# Top level modules:
+# 	SC_RegGENERAL_1_2
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RANDOM.v 
+# -- Compiling module SC_RANDOM
+# 
+# Top level modules:
+# 	SC_RANDOM
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_1
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegSHIFTER.v 
+# -- Compiling module SC_RegSHIFTER
+# 
+# Top level modules:
+# 	SC_RegSHIFTER
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_1.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_1
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_1
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORLEFT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORLEFT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORLEFT_2
+# End time: 16:07:58 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:58 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_BOTTOMSIDECOMPARATORRIGHT_2.v 
+# -- Compiling module SC_BOTTOMSIDECOMPARATORRIGHT_2
+# 
+# Top level modules:
+# 	SC_BOTTOMSIDECOMPARATORRIGHT_2
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_COMPARATORLOST.v 
+# -- Compiling module SC_COMPARATORLOST
+# 
+# Top level modules:
+# 	SC_COMPARATORLOST
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SPEEDCOMPARATOR.v 
+# -- Compiling module SC_SPEEDCOMPARATOR
+# 
+# Top level modules:
+# 	SC_SPEEDCOMPARATOR
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINEPOINT.v 
+# -- Compiling module SC_STATEMACHINEPOINT
+# 
+# Top level modules:
+# 	SC_STATEMACHINEPOINT
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_CONTADORCLK.v 
+# -- Compiling module SC_CONTADORCLK
+# 
+# Top level modules:
+# 	SC_CONTADORCLK
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINELOAD.v 
+# -- Compiling module SC_STATEMACHINELOAD
+# 
+# Top level modules:
+# 	SC_STATEMACHINELOAD
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_CAMBIANTE.v 
+# -- Compiling module SC_STATEMACHINE_CAMBIANTE
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_CAMBIANTE
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDATRANSI.v 
+# -- Compiling module CC_MUX13
+# 
+# Top level modules:
+# 	CC_MUX13
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_COMIENZO.v 
+# -- Compiling module CC_MUX1
+# 
+# Top level modules:
+# 	CC_MUX1
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_POSICION1.v 
+# -- Compiling module CC_MUX2
+# 
+# Top level modules:
+# 	CC_MUX2
+# End time: 16:07:59 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:07:59 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_ESENCIAL1.v 
+# -- Compiling module CC_MUX4
+# 
+# Top level modules:
+# 	CC_MUX4
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:08:00 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_TRANSI1.v 
+# -- Compiling module CC_MUX9
+# 
+# Top level modules:
+# 	CC_MUX9
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1 {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:08:00 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/MUX_SALIDARANDOM.v 
+# -- Compiling module CC_MUX12
+# 
+# Top level modules:
+# 	CC_MUX12
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:08:00 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_SEPARADOR.v 
+# -- Compiling module SC_SEPARADOR
+# 
+# Top level modules:
+# 	SC_SEPARADOR
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:08:00 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_MULTX.v 
+# -- Compiling module SC_STATEMACHINE_MULTX
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_MULTX
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/rtl {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:08:00 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_STATEMACHINE_REGRESIVA.v 
+# -- Compiling module SC_STATEMACHINE_REGRESIVA
+# 
+# Top level modules:
+# 	SC_STATEMACHINE_REGRESIVA
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/herna/Downloads/PRJ0_BASE_1\ sin\ registro_random_tiempo/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ con\ MULTX/PRJ0_BASE_1\ sin\ MULTX/2010-PRJ0_BASE_1/simulation/modelsim {C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:08:00 on May 08,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim" C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/simulation/modelsim/TB_SYSTEM.vt 
+# -- Compiling module TB_SYSTEM
+# 
+# Top level modules:
+# 	TB_SYSTEM
+# End time: 16:08:00 on May 08,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  TB_SYSTEM
+# End time: 16:08:02 on May 08,2023, Elapsed time: 0:16:26
+# Errors: 18, Warnings: 36
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" TB_SYSTEM 
+# Start time: 16:08:02 on May 08,2023
+# Loading work.TB_SYSTEM
+# Loading work.BB_SYSTEM
+# Loading work.SC_DEBOUNCE1
+# Loading work.SC_RegGENERAL
+# Loading work.SC_RegGENERAL_1_2_3
+# Loading work.SC_RegGENERAL_1_2
+# Loading work.SC_RANDOM
+# Loading work.SC_RegSHIFTER
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_1
+# Loading work.SC_BOTTOMSIDECOMPARATORRIGHT_2
+# Loading work.SC_BOTTOMSIDECOMPARATORLEFT_2
+# Loading work.SC_COMPARATORLOST
+# Loading work.SC_CONTADORCLK
+# Loading work.SC_SPEEDCOMPARATOR
+# Loading work.SC_STATEMACHINEPOINT
+# Loading work.SC_STATEMACHINELOAD
+# Loading work.SC_STATEMACHINE_CAMBIANTE
+# Loading work.SC_STATEMACHINE_MULTX
+# Loading work.SC_STATEMACHINE_REGRESIVA
+# Loading work.CC_MUX4
+# Loading work.CC_MUX12
+# Loading work.CC_MUX2
+# Loading work.CC_MUX1
+# Loading work.CC_MUX9
+# Loading work.CC_MUX13
+# Loading work.SC_SEPARADOR
+# Loading work.matrix_ctrl
+# Loading work.shift_reg_start_done
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Running testbench
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 84
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 127
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 128
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 129
+# ** Error: Unrecognized option: "-nounpdate" ignored.
+# (vish-4014) No objects found matching 'Unsigned'.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 135
+# ** Error: Unrecognized option: "-radix/TB_SYSTEM/BB_SYSTEM_u0/SC_STATEMACHINE_MULTX_u0/SC_STATEMACHINE_MULTX_reloj" ignored.
+# Missing signal name or pattern.
+# Executing ONERROR command at macro ./TB_SYSTEM.do line 197
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(332): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_1_2_3_u0 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2_3.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(344): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u1 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(356): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u2 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(365): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u3 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(373): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u4 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(381): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u5 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(389): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u6 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(397): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# ** Warning: (vsim-3017) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Too few port connections. Expected 7, found 6.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_SYSTEM/BB_SYSTEM_u0/SC_RegGENERAL_u7 File: C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/rtl/SC_RegGENERAL_1_2.v
+# ** Warning: (vsim-3722) C:/Users/herna/Downloads/PRJ0_BASE_1 sin registro_random_tiempo/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 con MULTX/PRJ0_BASE_1 sin MULTX/2010-PRJ0_BASE_1/BB_SYSTEM.v(406): [TFMPC] - Missing connection for port 'SC_RegGENERAL_clear_InLow'.
+# Running testbench
+# End time: 19:33:07 on May 08,2023, Elapsed time: 3:25:05
+# Errors: 18, Warnings: 36
